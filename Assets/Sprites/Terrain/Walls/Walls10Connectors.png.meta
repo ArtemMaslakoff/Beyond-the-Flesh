@@ -1,0 +1,1051 @@
+fileFormatVersion: 2
+guid: 56853f07b660cd143a0106f819544b54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5656453320844429497
+    second: Walls10Connectors_0
+  - first:
+      213: 4762892537936351067
+    second: Walls10Connectors_1
+  - first:
+      213: 2037760917119786900
+    second: Walls10Connectors_2
+  - first:
+      213: -4245300807213261529
+    second: Walls10Connectors_3
+  - first:
+      213: 2546363359565345586
+    second: Walls10Connectors_4
+  - first:
+      213: -7029402142235410363
+    second: Walls10Connectors_5
+  - first:
+      213: -8765592111240473869
+    second: Walls10Connectors_6
+  - first:
+      213: -4911326971357761252
+    second: Walls10Connectors_7
+  - first:
+      213: 2609377980182945574
+    second: Walls10Connectors_8
+  - first:
+      213: -2510189475385574718
+    second: Walls10Connectors_9
+  - first:
+      213: -8604275967556175687
+    second: Walls10Connectors_10
+  - first:
+      213: 380486984572603020
+    second: Walls10Connectors_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walls10Connectors_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 2, y: -2}
+        - {x: 8, y: -2}
+        - {x: 8, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: 4}
+        - {x: -8, y: 4}
+        - {x: -8, y: -4}
+        - {x: 2, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7473d728cad3081b0800000000000000
+      internalID: -5656453320844429497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 2, y: -2}
+        - {x: 4, y: -2}
+        - {x: 4, y: 8}
+        - {x: -4, y: 8}
+        - {x: -4, y: -2}
+        - {x: -2, y: -2}
+        - {x: -2, y: -8}
+        - {x: 2, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f0e034781391240800000000000000
+      internalID: 4762892537936351067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -4}
+        - {x: 4, y: 8}
+        - {x: -5, y: 8}
+        - {x: -8, y: 6}
+        - {x: -8, y: -6}
+        - {x: 2, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f5912f1c4974c10800000000000000
+      internalID: 2037760917119786900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 5}
+        - {x: 6, y: 8}
+        - {x: -6, y: 8}
+        - {x: -6, y: -2}
+        - {x: -4, y: -4}
+        - {x: 8, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ddf5d8869a515c0800000000000000
+      internalID: -4245300807213261529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: 8}
+        - {x: -2, y: 8}
+        - {x: -2, y: 2}
+        - {x: -4, y: 2}
+        - {x: -4, y: -8}
+        - {x: 4, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23376fbfbff765320800000000000000
+      internalID: 2546363359565345586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 4}
+        - {x: -2, y: 4}
+        - {x: -2, y: 2}
+        - {x: -8, y: 2}
+        - {x: -8, y: -2}
+        - {x: -2, y: -2}
+        - {x: -2, y: -4}
+        - {x: 8, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54040b8befb827e90800000000000000
+      internalID: -7029402142235410363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: 2}
+        - {x: 4, y: 4}
+        - {x: -8, y: 4}
+        - {x: -8, y: -5}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f29b8bba6c5a5680800000000000000
+      internalID: -8765592111240473869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -6}
+        - {x: 8, y: 6}
+        - {x: -2, y: 6}
+        - {x: -4, y: 4}
+        - {x: -4, y: -8}
+        - {x: 5, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11fc60142677dbb0800000000000000
+      internalID: -4911326971357761252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: 2, y: 6}
+        - {x: -8, y: 6}
+        - {x: -8, y: -6}
+        - {x: -5, y: -8}
+        - {x: 4, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fd789a27f563420800000000000000
+      internalID: 2609377980182945574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -2}
+        - {x: 6, y: 8}
+        - {x: -6, y: 8}
+        - {x: -8, y: 5}
+        - {x: -8, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caf7b0c8f30a2dd0800000000000000
+      internalID: -2510189475385574718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -4}
+        - {x: 8, y: 4}
+        - {x: 4, y: 8}
+        - {x: -5, y: 8}
+        - {x: -8, y: 6}
+        - {x: -8, y: -6}
+        - {x: 2, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8326c4898779880800000000000000
+      internalID: -8604275967556175687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -4}
+        - {x: 8, y: 5}
+        - {x: 6, y: 8}
+        - {x: -6, y: 8}
+        - {x: -6, y: -2}
+        - {x: -4, y: -8}
+        - {x: 4, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a0c1585e2c74500800000000000000
+      internalID: 380486984572603020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -5}
+        - {x: 8, y: 4}
+        - {x: -4, y: 4}
+        - {x: -6, y: 2}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df0bc6bae1e2274685db03e65e1895b
+      internalID: 318429367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 6}
+        - {x: 5, y: 8}
+        - {x: -4, y: 8}
+        - {x: -4, y: -4}
+        - {x: -2, y: -6}
+        - {x: 8, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92ce53b68342104dbb975c3c75ef6ac
+      internalID: 1288209728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: 2}
+        - {x: 4, y: 8}
+        - {x: -4, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -5}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa908562c4e6d646bf138139798d8bb
+      internalID: 1675735863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -6}
+        - {x: 8, y: 6}
+        - {x: -2, y: 6}
+        - {x: -8, y: 4}
+        - {x: -8, y: -4}
+        - {x: -4, y: -8}
+        - {x: 5, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c28c5046fc410c47bf23291367a0b2d
+      internalID: 1498221548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -4}
+        - {x: 8, y: 4}
+        - {x: 2, y: 6}
+        - {x: -8, y: 6}
+        - {x: -8, y: -6}
+        - {x: -5, y: -8}
+        - {x: 4, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffab054d8001cd409fe031bf9f42433
+      internalID: -296130160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -2}
+        - {x: 6, y: 8}
+        - {x: -6, y: 8}
+        - {x: -8, y: 5}
+        - {x: -8, y: -4}
+        - {x: -4, y: -8}
+        - {x: 4, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcff0c5f92fe364b98aa082e2fd8c11
+      internalID: -210328532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 8}
+        - {x: -5, y: 8}
+        - {x: -8, y: 6}
+        - {x: -8, y: -6}
+        - {x: -5, y: -8}
+        - {x: 4, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eee3831b74d754bb64c2b675031a1e
+      internalID: 1968210661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 5}
+        - {x: 6, y: 8}
+        - {x: -6, y: 8}
+        - {x: -8, y: 5}
+        - {x: -8, y: -4}
+        - {x: 8, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d2259657eb8f846a5ae50e6b8d0dbe
+      internalID: 1236758368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -5}
+        - {x: 8, y: 4}
+        - {x: 4, y: 8}
+        - {x: -4, y: 8}
+        - {x: -6, y: 2}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75987ef68ff1c6d4e891ec1281b08f09
+      internalID: -1358167747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 6}
+        - {x: 5, y: 8}
+        - {x: -4, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -4}
+        - {x: -2, y: -6}
+        - {x: 8, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1bdb4de845efe4b9cca9c65f8dfc9f
+      internalID: 644082931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -5}
+        - {x: 8, y: 4}
+        - {x: -8, y: 4}
+        - {x: -8, y: -5}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0112eb3059bcfde47865b57b13bad7b6
+      internalID: 364999167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -6}
+        - {x: 8, y: 6}
+        - {x: 5, y: 8}
+        - {x: -4, y: 8}
+        - {x: -4, y: -8}
+        - {x: 5, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b828cfcce8ed149ad0dd5a4ca2001d
+      internalID: 545867061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -4}
+        - {x: 8, y: 4}
+        - {x: 4, y: 8}
+        - {x: -5, y: 8}
+        - {x: -8, y: 6}
+        - {x: -8, y: -6}
+        - {x: -5, y: -8}
+        - {x: 4, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7239ce6964324dc4aaac235642b53134
+      internalID: -1825064909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -4}
+        - {x: 8, y: 5}
+        - {x: 6, y: 8}
+        - {x: -6, y: 8}
+        - {x: -8, y: 5}
+        - {x: -8, y: -4}
+        - {x: -4, y: -8}
+        - {x: 4, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8088f074c67265409c9b948a929ba4e
+      internalID: -1780317816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -6}
+        - {x: 8, y: 6}
+        - {x: 5, y: 8}
+        - {x: -5, y: 8}
+        - {x: -8, y: 6}
+        - {x: -8, y: -6}
+        - {x: -5, y: -8}
+        - {x: 5, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f262290309ddf704ea29b09e1cc6adad
+      internalID: -1574865436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -5}
+        - {x: 8, y: 5}
+        - {x: 6, y: 8}
+        - {x: -6, y: 8}
+        - {x: -8, y: 5}
+        - {x: -8, y: -5}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e67fb6bd3679e7418b0ecb50f26c16c
+      internalID: 378464685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -5}
+        - {x: 8, y: 4}
+        - {x: 4, y: 8}
+        - {x: -4, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -5}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea2f83b6efaf5244a3eacaea2b619a1
+      internalID: 672081590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls10Connectors_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -6}
+        - {x: 8, y: 6}
+        - {x: 5, y: 8}
+        - {x: -4, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -4}
+        - {x: -4, y: -8}
+        - {x: 5, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bbaec508719984cbcf97b5627d7cb8
+      internalID: -582041779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c76922f644d8cfa48b36999bc14fd10a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Walls10Connectors_0: -5656453320844429497
+      Walls10Connectors_1: 4762892537936351067
+      Walls10Connectors_10: -8604275967556175687
+      Walls10Connectors_11: 380486984572603020
+      Walls10Connectors_12: 318429367
+      Walls10Connectors_13: 1288209728
+      Walls10Connectors_14: 1675735863
+      Walls10Connectors_15: 1498221548
+      Walls10Connectors_16: -296130160
+      Walls10Connectors_17: -210328532
+      Walls10Connectors_18: 1968210661
+      Walls10Connectors_19: 1236758368
+      Walls10Connectors_2: 2037760917119786900
+      Walls10Connectors_20: -1358167747
+      Walls10Connectors_21: 644082931
+      Walls10Connectors_22: 364999167
+      Walls10Connectors_23: 545867061
+      Walls10Connectors_24: -1825064909
+      Walls10Connectors_25: -1780317816
+      Walls10Connectors_26: -1574865436
+      Walls10Connectors_27: 378464685
+      Walls10Connectors_28: 672081590
+      Walls10Connectors_29: -582041779
+      Walls10Connectors_3: -4245300807213261529
+      Walls10Connectors_4: 2546363359565345586
+      Walls10Connectors_5: -7029402142235410363
+      Walls10Connectors_6: -8765592111240473869
+      Walls10Connectors_7: -4911326971357761252
+      Walls10Connectors_8: 2609377980182945574
+      Walls10Connectors_9: -2510189475385574718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
