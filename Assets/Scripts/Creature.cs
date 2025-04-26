@@ -1,16 +1,37 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class Creature : MonoBehaviour
 {
+    // Health
     public float maxHealth;
     public float currentHealth;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    //
+
+    // Speed
+    public float movementSpeed;
+    public float rotationSpeed;
+    //
+
+    // Size
+    public float bodySize;
+    //
+
+    // Attack
+    public Attack attack;
+    public float attackCooldown;
+    //
+
+    // Defense
+    public float defense;
+    public List<AspectImmunity> aspectImmunities;
+    //
+
     void Start()
     {
         currentHealth = maxHealth;
     }
 
-    // Update is called once per frame
     void Update()
     {
         
@@ -24,4 +45,10 @@ public class Creature : MonoBehaviour
     {
         Destroy(gameObject);
     }
+}
+
+public class AspectImmunity
+{
+    public Aspect aspect;
+    public float immunityValue;
 }
